@@ -1,12 +1,5 @@
 <?php
 
-    /*!
-     * https://raccoonsquare.com
-     * raccoonsquare@gmail.com
-     *
-     * Copyright 2012-2021 Demyanchuk Dmitry (raccoonsquare@gmail.com)
-     */
-
     if (!admin::isSession()) {
 
         header("Location: /admin/login");
