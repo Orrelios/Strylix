@@ -1,12 +1,4 @@
 <?php
-
-    /*!
-     * https://raccoonsquare.com
-     * raccoonsquare@gmail.com
-     *
-     * Copyright 2012-2022 Demyanchuk Dmitry (raccoonsquare@gmail.com)
-     */
-
     if (!defined("APP_SIGNATURE")) {
 
         header("Location: /");
